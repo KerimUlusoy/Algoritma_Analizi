@@ -1,2 +1,4 @@
 # Algoritma_Analizi
-Algoritma Analizi dersinde yazılan kod parçaları
+
+Algoritma Analizi dersinde analizi yapılan algoritmalar ve yazılan fonksiyonlar için oluşturulmuştur.
+Her hafta güncellenecektir.
